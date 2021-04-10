@@ -75,7 +75,8 @@ Com base nos possíveis gaps semanticos, utilize a estrutura discutida em sala c
 }
 ```
 4. Pesquise as TAGs semanticas que possam identificar melhor os dados apresentados, acesse esta referência da Mozilla [elementos semanticos textuais inline](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element#sem%C3%A2nticas_textuais_inline).
-5. Utilize a maior quantidade possível de tags semanticas, dê uma força para o `Leitor de Telas` e ganhe muitos pontos de **XP** em Acessibilidade!
+5. Conheça e compare algumas TAGs da versão **4** e **5** do HTML neste [link](https://diegomariano.com/tags-html/).
+6. Utilize a maior quantidade possível de tags semanticas, dê uma força para o `Leitor de Telas` e ganhe muitos pontos de **XP** em Acessibilidade!
 
 ### Step 06 - [Re]Validação com Screen Reader
 Idem `Step 04`.
