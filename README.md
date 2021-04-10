@@ -8,7 +8,7 @@ Hoje iremos testar o uso de um Leitor de tela; para facilitar o uso em sala de a
 2. Instale o plugin acessando este [link](https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn/related).
 3. Certifique-se que o plugin esteja ativo, no `Chrome`, ao lado da foto de perfil, clique no botão extensões e ative ou desative o SwitchButton do `Screen reader`; detalhe, voce pode desabilitá-lo enquanto estiver codificando e ativá-lo quando for realizar os testes.
 4. Acesse o repositório com as instruções neste [link](https://github.com/f290SI/acsb-eliminando-barreiras-01).
-5. Se preferir, clone este projeto utilizando o `GitDesktop` ou `GitBash`ou o proprio shell de seu sistema operacional utilizado com o comando abaixo, pois novas instruções serão disponibilizadas em oustros **commits**:
+5. Se preferir, clone este projeto utilizando o `GitDesktop` ou `GitBash`ou o proprio shell de seu sistema operacional utilizado com o comando abaixo, pois novas instruções serão disponibilizadas em outros **commits**:
 ```shell
 git clone https://github.com/f290SI/acsb-eliminando-barreiras-01.git
 ```
@@ -21,8 +21,8 @@ git clone https://github.com/f290SI/acsb-eliminando-barreiras-01.git
 3. Faça uma reflexão e questionamento sobre o a leitura do conteúdo, e anote no bloco de notas suas considerações sobre esta leitura.
 
 ### Step 4 - Ouvir o conteúdo de um site que você não desenvolveu
-1. Combine com algum dos demais alunos o envio da página criada.
-2. Faça a leitura do conteúdo, mas sem ler o contéudo e observar a imagem enviada; contenha-se a clicar sobre o elemento `olhando o mínimo possível` e sem obserar, afinal nós olhamos tudo por que temos a visão perfeita, mas observamos apenas o que nos é de interesse, você entenderam! O foco deve ser o audio.
+1. Combine com algum dos demais alunos o envio da página criada para que você possa ouvi-la.
+2. Faça a leitura do conteúdo com o `Screen Reader`, mas sem **você** o ler contéudo e sem observar as imagens; contenha-se a clicar sobre o elemento `olhando o mínimo possível` e sem obserar, afinal nós olhamos tudo por que temos a visão perfeita, mas observamos apenas o que nos é de interesse, você entenderam! O foco deve ser o audio.
 3. Faça uma reflexão e questionamento sobre o a leitura do conteúdo, e anote no bloco de notas suas considerações sobre esta leitura.
 
 ### Step 5 - Refatoração do seu conteúdo com HTML 5
